@@ -1,0 +1,25 @@
+/* ここから下に記載していく */
+a:link {
+  color: #66f;
+}
+
+a:visited {
+  color: #ccc;
+}
+
+a:hover {
+  opacity: 0.5;
+}
+
+#list{
+  display: grid;
+}
+
+#info {
+  margin: 0;
+  padding: 10px 5px;
+  text-align: center;
+  background-color: #555;
+  color: #fff;
+  font-weight: bold;
+}

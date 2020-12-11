@@ -1,0 +1,94 @@
+/* ここから下に記載していく */
+a:link {
+  color: #66f;
+}
+
+a:visited {
+  color: #ccc;
+}
+
+a:hover {
+  opacity: 0.5;
+}
+
+#list{
+  display: grid;
+}
+
+#info_ichi {
+  margin: 0;
+  text-align: center;
+  background-color: #555;
+  color: #fff;
+  font-weight: bold;
+  width: 33%;
+}
+
+#stage_ichi{
+  width: 33%;
+}
+
+#info_ni {
+  margin: 0;
+  text-align: center;
+  background-color: #555;
+  color: #fff;
+  font-weight: bold;
+  width: 33%;
+}
+
+#stage_ni{
+  width: 33%;
+}
+
+#info_san{
+  margin: 0;
+  text-align: center;
+  background-color: #555;
+  color: #fff;
+  font-weight: bold;
+  width: 33%;
+}
+
+#stage_san{
+  width: 33%;
+}
+
+#info_yon{
+  margin: 0;
+  text-align: center;
+  background-color: #555;
+  color: #fff;
+  font-weight: bold;
+  width: 33%;
+}
+
+#stage_yon{
+  width: 33%;
+}
+
+#info_go{
+  margin: 0;
+  text-align: center;
+  background-color: #555;
+  color: #fff;
+  font-weight: bold;
+  width: 33%;
+}
+
+#stage_go{
+  width: 33%;
+}
+
+#info_roku{
+  margin: 0;
+  text-align: center;
+  background-color: #555;
+  color: #fff;
+  font-weight: bold;
+  width: 33%;
+}
+
+#stage_roku{
+  width: 33%;
+}
